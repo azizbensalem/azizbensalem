@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# About me
-
 - :student: I'm currently a Software Engineering Student
 - :computer: I code mainly with React and NodeJS
 - :mailbox:	How to reach me: mohamedaziz.bensalem@isamm.u-manouba.tn
