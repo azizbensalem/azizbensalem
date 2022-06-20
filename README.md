@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - :computer: I code mainly with React and NodeJS
 - :mailbox:	How to reach me: mohamedaziz.bensalem@isamm.u-manouba.tn
 _______________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbensalem)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbensalem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbensalem)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
