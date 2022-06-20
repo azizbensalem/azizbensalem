@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - :student: I'm currently a Software Engineering Student
 - :computer: I code mainly with React and NodeJS
 - :mailbox:	How to reach me: mohamedaziz.bensalem@isamm.u-manouba.tn
+
 <br/>
-_______________
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbensalem&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
