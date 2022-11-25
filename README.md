@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - :student: I'm currently a Software Engineering Student
 - :computer: I code mainly with React and NodeJS
-- :mailbox:	How to reach me: mohamedaziz.bensalem@isamm.u-manouba.tn
+- :mailbox:	How to reach me: medazizbensalem.dev@gmail.com
 
 <br/>
 <br/>
