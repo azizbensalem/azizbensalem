@@ -1,22 +1,46 @@
-### Hi there 👋
+<!-- Title -->
+# Hello, I'm Mohamed Aziz BEN SALEM! 🚀
 
-<!--
-**azizbensalem/azizbensalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Introduction -->
+I'm a recent graduate in Software Engineering from ISAMM. 👨‍🎓
 
-Here are some ideas to get you started:
+<!-- Skills -->
+## 💻 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- :student: I'm currently a Software Engineering Student
-- :computer: I code mainly with React and NodeJS
-- :mailbox:	How to reach me: medazizbensalem.dev@gmail.com
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+## 🚀 Experience
+
+- 🌐 Developed several web applications using React, Node.js, Symfony, Laravel, and Flask.
+- 📦 Deployed web apps to Microsoft Azure.
+- 🛠️ Worked on DevOps projects, utilizing Docker and GitLab CI/CD.
+
+## 🌟 DevOps Enthusiast
+
+I'm passionate about DevOps and continuously expanding my knowledge. Here's what I'm currently focused on:
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+## 📫 Let's Connect
+
+Feel free to reach out and connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+
 
 <br/>
 <br/>
