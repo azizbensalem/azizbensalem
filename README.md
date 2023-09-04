@@ -29,8 +29,8 @@
 
 I've worked on a variety of projects during my academic studies and internships. Here are some highlights:
 
-- 🚀 [Project Name 1](link-to-repository): A description of project 1.
-- 🌐 [Project Name 2](link-to-repository): A description of project 2.
+- 🚀 [End-of-studies project (engineering degree)](https://github.com/azizbensalem/testing_app_pfe): Development of an application to test application performance applications, measuring their CPU, memory, disk and network consumption memory, disk and network, in an intelligent way using a machine learning model.
+- 🌐 [End-of-studies project (bachelor's degree)](https://github.com/azizbensalem/Clicn_fest): Front-end development for a dynamic web application to manage and organize online events.
 - ⚙️ [Symfony project](https://github.com/azizbensalem/Projet_Symfony): Development of a web application to automate and improve all processes interview management processes in a company.
 
 Feel free to explore my repositories for more projects and code samples.
