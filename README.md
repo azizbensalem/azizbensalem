@@ -31,7 +31,7 @@ I've worked on a variety of projects during my academic studies and internships.
 
 - 🚀 [Project Name 1](link-to-repository): A description of project 1.
 - 🌐 [Project Name 2](link-to-repository): A description of project 2.
-- ⚙️ [Project Name 3](link-to-repository): A description of project 3.
+- ⚙️ [Symfony project](https://github.com/azizbensalem/Projet_Symfony): Development of a web application to automate and improve all processes interview management processes in a company.
 
 Feel free to explore my repositories for more projects and code samples.
 
