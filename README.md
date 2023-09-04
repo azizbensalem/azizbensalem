@@ -2,7 +2,11 @@
 # Hello, I'm Mohamed Aziz BEN SALEM! 🚀
 
 <!-- Introduction -->
-I'm a recent graduate in Software Engineering from ISAMM. 👨‍🎓
+- 🎓 Recent graduate in Software Engineering from ISAMM.
+- 💼 Experienced in building web applications and solving real-world problems.
+- 🌐 Proficient in front-end development with React and back-end development with Node.js.
+- ⚙️ Familiar with Symfony for PHP-based web applications.
+- ☁️ Explored cloud computing and deployment on Microsoft Azure.
 
 <!-- Skills -->
 ## 💻 Skills & Technologies
@@ -20,6 +24,16 @@ I'm a recent graduate in Software Engineering from ISAMM. 👨‍🎓
 - 🌐 Developed several web applications using React, Node.js, Symfony, Laravel, and Flask.
 - 📦 Deployed web apps to Microsoft Azure.
 - 🛠️ Worked on DevOps projects, utilizing Docker and GitLab CI/CD.
+
+## 💼 Projects
+
+I've worked on a variety of projects during my academic studies and internships. Here are some highlights:
+
+- 🚀 [Project Name 1](link-to-repository): A description of project 1.
+- 🌐 [Project Name 2](link-to-repository): A description of project 2.
+- ⚙️ [Project Name 3](link-to-repository): A description of project 3.
+
+Feel free to explore my repositories for more projects and code samples.
 
 ## 🌟 DevOps Enthusiast
 
