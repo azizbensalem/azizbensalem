@@ -32,7 +32,7 @@ I'm passionate about DevOps and continuously expanding my knowledge. Here's what
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizbensalem&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect
 
