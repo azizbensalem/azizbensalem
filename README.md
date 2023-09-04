@@ -46,7 +46,7 @@ I'm passionate about DevOps and continuously expanding my knowledge. Here's what
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbensalem&langs_count=6&theme=radical&hide=css,shell,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbensalem&langs_count=6&theme=radical&hide=python,css,shell,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect
 
