@@ -5,7 +5,7 @@
 - 🎓 Recent graduate in Software Engineering from ISAMM.
 - 💼 Experienced in building web applications and solving real-world problems.
 - 🌐 Proficient in front-end development with React and back-end development with Node.js.
-- ⚙️ Familiar with Symfony for PHP-based web applications.
+- ⚙️ Familiar with Symfony and Laravel for PHP-based web applications.
 - ☁️ Explored cloud computing and deployment on Microsoft Azure.
 
 <!-- Skills -->
